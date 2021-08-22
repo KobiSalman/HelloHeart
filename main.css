@@ -1,0 +1,37 @@
+
+h1, p {
+  text-align: center;
+}
+
+.mainForm {
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  margin: auto;  
+}
+
+.light-theme {
+  color: #000000;
+  background: #fccece;
+}
+
+#testResults {
+  background-color: antiquewhite;
+  margin-top: 20px;
+  border: 2px solid #020202;
+  border-radius: 15px;
+  display: none;
+}
+
+#testNameForm {
+  margin-top: 10px;
+}
+
+#helloHeartImg {
+  background-color: black;
+  height: 55px;
+}
+
+#HeartBeatImg {
+  width: 95px;
+}

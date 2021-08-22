@@ -1,0 +1,13 @@
+Installation Instructions
+==================
+1. Download 'HelloHeart' main folder to a local folder.
+2. Open Visual Code -> File -> New Window -> Open Folder.
+3. Open the folder 'HelloHeart'.
+4. Run index.html (ALT + B / Open index.html in Chrome).
+
+! Note !
+* The project includes 'bloodTestConfig.json' file, that contains additional data for the dataset, in order to run this dataset, 
+have to upload it and change the URL in the app.js file (var apiURL) , for now I run the initial example.
+
+Thank you,
+Kobi :)
